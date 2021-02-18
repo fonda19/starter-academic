@@ -21,9 +21,8 @@ organizations:
     url: https://www.stc.org
 education:
   courses:
-    - course: M.S. in Information Science
-      institution: North Carolina Central University, School of Library and
-        Information Sciences
+    - course: M.S. in Information Science, Magna Cum Laude
+      institution: North Carolina Central University
       year: ""
     - course: B.A. in Political Science, International Affairs
       institution: Howard University
