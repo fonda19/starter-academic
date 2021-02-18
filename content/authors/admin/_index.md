@@ -40,6 +40,6 @@ I am a solutions driven professional with over 8 years' experience creating effe
 
 As a previous IT Specialist, I developed digital content for a readership that reached 294 US embassies, consulates and diplomatic missions. When it comes to creating and managing compelling content for the web, you need a professional that understands the dynamics of engaging diverse client needs. I possess a combination of knowledge and experience in data analysis, document management and web content management.
 
-My dedication to social justice and public service extends to my work as an active volunteer for UNICEF, award-winning fundraising for UN Women, and experience tutoring refugees in Egypt. I look forward to using my talents to support the work of local and international development agencies.
+My dedication to social justice and public service extends to my work as an active volunteer for UNICEF, award-winning fundraiser for UN Women, and experience tutoring refugees in Egypt. I look forward to using my talents to support the work of local and international development agencies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
